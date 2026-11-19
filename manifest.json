@@ -1,0 +1,16 @@
+{
+  "access_provider_type": "baiducloud",
+  "binary": "baiducloud-appblb.exe",
+  "capability": "deploy",
+  "category": "loadbalance",
+  "display_name_key": "plugin.baiducloud-appblb.name",
+  "icon": "baiducloud.svg",
+  "min_core_version": "",
+  "priority": 100,
+  "protocol_version": 4,
+  "provider_type": "baiducloud-appblb",
+  "usages": [
+    "hosting"
+  ],
+  "version": "0.2.2"
+}
